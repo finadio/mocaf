@@ -1,0 +1,16 @@
+/node_modules
+/vendor
+/.git
+/.agents
+/.claude
+/.cursor
+/assets
+/docs
+/scratch
+/tests
+/public/hot
+/public/storage
+.env
+.phpunit.result.cache
+*.zip
+
